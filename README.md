@@ -23,7 +23,7 @@ I'm a Java Developer from Russia.
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" style="width: 60px; height: 20px;" width="60" height="20"/> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" style="width: 60px; height: 20px;" width="60" height="20" /> <a href="https://github.com/andreykirson" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" alt="GitHub" style="width: 60px; height: 20px;" width="60" height="20" /><a href="https://camo.githubusercontent.com/3d81e0bd1de3f21ab2ffffb9abfd0165286edfbeec2e969f1c61d45d5c320cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472617669732d43492d737563636573" target="_blank"/>
 
   
-### Human language :
+### Human languages :
  - Russian - native
  - Chinese - uppear intermedia.
  - English - uppear intermedia.  
