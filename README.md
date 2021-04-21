@@ -22,6 +22,9 @@ I'm a Java Developer from Russia.
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript" title="JavaScript" style="width: 60px; height: 20px;" width="60" height="20"/> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" style="width: 60px; height: 20px;" width="60" height="20" />
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" style="width: 60px; height: 20px;" width="60" height="20"/> <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" style="width: 60px; height: 20px;" width="60" height="20" /> <a href="https://github.com/andreykirson" target="_blank"> <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" alt="GitHub" style="width: 60px; height: 20px;" width="60" height="20" /><a href="https://camo.githubusercontent.com/3d81e0bd1de3f21ab2ffffb9abfd0165286edfbeec2e969f1c61d45d5c320cfd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472617669732d43492d737563636573" target="_blank"/>
 
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=andreykirson&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreykirson&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
   
 ### Human languages :
  - Russian - native
