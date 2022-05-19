@@ -2,7 +2,7 @@
 
 Hello, I'm Andrey. 
 
-I'm a Java Developer from Russia.
+I'm a Java Developer.
 
 ### My project
 
