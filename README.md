@@ -6,6 +6,7 @@ I'm a Java Developer.
 
 ### My project
 
+- RSocket and reactive programming https://github.com/andreykirson/stock_noficator_api
 - Create a tracker of request https://github.com/andreykirson/job4j_tracker.
 - Web site scraping - https://github.com/andreykirson/job4j_grabber.
 - Spring Boot RESTfull API for chat https://github.com/andreykirson/job4j_chat.
